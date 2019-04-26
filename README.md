@@ -1,5 +1,7 @@
 # My Angular Template
 
+Angular 7
+
 Features
 - Root component template
     - Header
