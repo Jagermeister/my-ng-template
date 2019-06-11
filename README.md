@@ -1,6 +1,6 @@
 # My Angular Template
 
-Angular 7
+Angular 8
 
 Features
 - Root component template
