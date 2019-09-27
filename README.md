@@ -11,6 +11,7 @@ Features
 - Disclosure pop-up
 - Material Modules
     - Icons (including SVG)
+    - Theming
 
 ## Development server
 
