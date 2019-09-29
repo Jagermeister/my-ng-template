@@ -21,3 +21,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## TODO
 
 - Add prerender/static template
+- Provide theme template/tutorial
